@@ -1,0 +1,9 @@
+# Environment configuration
+.env
+env/
+
+# Python virtual environment
+venv/
+
+# IDE configuration (e.g., PyCharm)
+.idea/
